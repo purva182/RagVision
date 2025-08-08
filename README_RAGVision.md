@@ -37,8 +37,7 @@ ragvision/
 ├── .gitignore                # Files to ignore in repo
 ├── /data/                    # Contains your dataset
 │   └── project_dataset.csv
-├── /assets/                  # Optional: images or GIFs
-│   └── overview.png
+
 ```
 
 ---
@@ -99,10 +98,6 @@ Use `RAGVision.ipynb` to:
 
 ---
 
-## 🖼️ Project Highlights
-
-![Overview](assets/overview.png)
-
 ---
 
 ## 📄 License
@@ -117,6 +112,3 @@ Pull requests are welcome! For major changes, open an issue first.
 
 ---
 
-## 📬 Contact
-
-For questions, reach out at [yourname@email.com] or raise an issue on GitHub.
