@@ -1,0 +1,11 @@
+streamlit
+deepseek
+faiss-cpu
+pandas
+numpy
+scikit-learn
+tqdm
+seaborn
+matplotlib
+sentence-transformers
+jupyter

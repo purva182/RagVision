@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.tsv
+*.json
+
+# Secret keys
+*.env
+*key.txt
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
