@@ -16,7 +16,7 @@ st.title("🚀 RAGVision: AI-Powered Project Retrieval and Ideation System")
 @st.cache_resource(show_spinner=False)
 def init_resources():
     client = OpenAI(
-        api_key= "sk-7840f7614f794673bb09d0c845f6b68a",
+        api_key= "...",
         base_url="https://api.deepseek.com"
     )
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
